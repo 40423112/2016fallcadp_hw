@@ -1,1 +1,0 @@
-var tipuesearch = {"pages":[{"text":"2016Fall 修課成員網誌","url":"./pages/about/","title":"About","tags":"misc"},{"text":"這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統. 網誌 Category 網誌 Tags reveal.js 使用導引","url":"./2016fallcadp.html","title":"2016FallCADP","tags":"Misc"},{"text":"錄製_2016_10_06_01_40_51_166 from 吳欣奕 on Vimeo .","url":"./40423112.html","title":"40423112","tags":"作業"}]};

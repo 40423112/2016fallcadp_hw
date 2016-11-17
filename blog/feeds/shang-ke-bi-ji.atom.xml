@@ -38,4 +38,7 @@
 &lt;p&gt;git submodule init,利用 git submodule update&lt;p&gt;
 &lt;p&gt;git pull origin gh-pages --recurse-submodules&lt;p&gt;
 &lt;p&gt;git submodule foreach "(git checkout gh-pages; git pull)&amp;amp;"&lt;p&gt;
-&lt;p&gt;git submodule update --init --recursive&lt;p&gt;&lt;/p&gt;</summary><category term="上課筆記"></category></entry></feed>
+&lt;p&gt;git submodule update --init --recursive&lt;p&gt;&lt;/p&gt;</summary><category term="上課筆記"></category></entry><entry><title>四連桿機構</title><link href="./si-lian-gan-ji-gou.html" rel="alternate"></link><published>2016-09-29T12:00:00+08:00</published><updated>2016-09-29T12:00:00+08:00</updated><author><name>40423112</name></author><id>tag:,2016-09-29:./si-lian-gan-ji-gou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;&lt;img src="./../data/11-174bar.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/11-174bar1.png" width="800" /&gt;&lt;/p&gt;</summary><category term="上課筆記"></category></entry></feed>

@@ -3,9 +3,8 @@
 
 
 &lt;h1&gt;PNG&lt;/h1&gt;
-&lt;p&gt;&lt;iframe src="./../1215/dispersion.png" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;iframe src="./../1215/3dprint.png" width="800" height="600"&gt;&lt;/iframe&gt;
-
+&lt;p&gt;&lt;img src="./../1215/dispersion.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../1215/3dprint.png" width="800" /&gt;&lt;/p&gt;
 &lt;h1&gt;Solvespace&lt;/h1&gt;
 &lt;p&gt;&lt;iframe src="./../1215/dispersion.html" width="800" height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;iframe src="./../1215/40423112-3dprint.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="作業"></category></entry><entry><title>12/1 作業</title><link href="./121-zuo-ye.html" rel="alternate"></link><updated>2016-12-01T12:00:00+08:00</updated><author><name>40423112</name></author><id>tag:,2016-12-01:./121-zuo-ye.html</id><summary type="html">&lt;h1&gt;組合圖&lt;/h1&gt;
@@ -35,7 +34,11 @@ An introductory tutorial is available, in which we draw the same part that is sh
 &lt;p&gt;&lt;img src="./../data/threejs/11-174bar.png" width="800" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/threejs/11-174bar1.png" width="800" /&gt;&lt;/p&gt;
 &lt;h2&gt;2. Assembly (零件組立)&lt;/h2&gt;
-&lt;iframe src="./../data/threejs/40423112.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="作業"></category></entry><entry><title>四連桿機構</title><link href="./si-lian-gan-ji-gou.html" rel="alternate"></link><updated>2016-11-17T12:00:00+08:00</updated><author><name>40423112</name></author><id>tag:,2016-11-17:./si-lian-gan-ji-gou.html</id><summary type="html">&lt;h1&gt;四連桿機構&lt;/h1&gt;
+&lt;iframe src="./../data/threejs/40423112.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;4. Compiled &amp;amp; API (編譯與延伸應用)&lt;/h2&gt;
+&lt;p&gt;使用 Virtualbox 虛擬主機執行 Windows 64 位元與 Ubuntu 64 位元環境中的編譯與延伸應用&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../W7/virtualboxes.png" width="800" /&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>四連桿機構</title><link href="./si-lian-gan-ji-gou.html" rel="alternate"></link><updated>2016-11-17T12:00:00+08:00</updated><author><name>40423112</name></author><id>tag:,2016-11-17:./si-lian-gan-ji-gou.html</id><summary type="html">&lt;h1&gt;四連桿機構&lt;/h1&gt;
 
 
 &lt;p&gt;&lt;img src="./../data/threejs/11-174bar.png" width="800" /&gt;&lt;/p&gt;
